@@ -5,3 +5,4 @@
 6. Pepper
 7. Salt
 8. Garlic
+9. Cumin
