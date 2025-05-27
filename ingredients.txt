@@ -3,3 +3,6 @@
 3. Red Tomato
 5. Parmesan
 6. Pepper
+7. Salt
+8. Garlic
+9. Cumin
